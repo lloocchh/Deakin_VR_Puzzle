@@ -1,0 +1,25 @@
+-- Merging decision tree log ---
+manifest
+ADDED from X:\permission_library\src\main\AndroidManifest.xml:1:1-119
+INJECTED from X:\permission_library\src\main\AndroidManifest.xml:1:1-119
+INJECTED from X:\permission_library\src\main\AndroidManifest.xml:1:1-119
+	package
+		ADDED from X:\permission_library\src\main\AndroidManifest.xml:1:70-116
+		INJECTED from X:\permission_library\src\main\AndroidManifest.xml
+		INJECTED from X:\permission_library\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from X:\permission_library\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from X:\permission_library\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from X:\permission_library\src\main\AndroidManifest.xml
+INJECTED from X:\permission_library\src\main\AndroidManifest.xml
+INJECTED from X:\permission_library\src\main\AndroidManifest.xml
+INJECTED from X:\permission_library\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from X:\permission_library\src\main\AndroidManifest.xml
+		ADDED from X:\permission_library\src\main\AndroidManifest.xml
+		INJECTED from X:\permission_library\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from X:\permission_library\src\main\AndroidManifest.xml
+		ADDED from X:\permission_library\src\main\AndroidManifest.xml
+		INJECTED from X:\permission_library\src\main\AndroidManifest.xml
