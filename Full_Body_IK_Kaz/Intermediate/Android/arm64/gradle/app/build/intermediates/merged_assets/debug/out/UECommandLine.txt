@@ -1,1 +1,0 @@
--project=../../../Full_Body_IK_Kaz/Full_Body_IK_Kaz.uproject /Game/VRTemplate/Maps/VRTemplateMap -Messaging -SessionId=DE606D2A42BE3F07DF2F54AEE912B54A -SessionOwner="llooc" -SessionName="Launch On Device"
