@@ -1,0 +1,3 @@
+Hey, guys wanted to say once again, sorry that i am leaving you part way through the timester, if i had it my way then i wouldnt leave and would finish off this project with you bunch. This zipped file contains all my UE5 work on the first puzzle, the boucy ball and the button that launches the ball. Its all kinda set up in a testing area and shouldnt be too hard to figure out. If you have any questiosn then feel free to ask me.
+
+Good luck with the project, i hope you make a banger of a vr game.
