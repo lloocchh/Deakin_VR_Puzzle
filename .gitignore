@@ -4,6 +4,7 @@
 
 # Get Ryans Work
 !/Ryans Work/**
+!/Blueprints/**
 
 # Do not ignore git files in the root of the repo.
 !/.git*
