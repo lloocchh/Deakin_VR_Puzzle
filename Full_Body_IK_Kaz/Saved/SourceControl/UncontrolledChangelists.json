@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/Megascans/Surfaces/Damaged_Wall_Plaster_vl0qditfw/Storage_Walls_Blueprint.uasset",
+				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/Blueprints/Storage_Walls_Blueprint.uasset",
+				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/Materials/Damaged_Wall.uasset",
+				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/Materials/Corrigated_Wall.uasset",
+				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/Blueprints/Storage_Floor.uasset",
+				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/Materials/Concrete_Floor.uasset",
+				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/Materials/Chipped_White_Paint.uasset",
+				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/Blueprints/Storage_Ceiling.uasset",
+				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/Blueprints/Storage_Light.uasset",
+				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/Audio/Dragging.uasset",
+				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/Assets/Cardboard_Box.uasset",
+				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/Megascans/3D_Assets/Cardboard_Box_ueniagvjw/S_Cardboard_Box_ueniagvjw_lod3_Var1.uasset",
+				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/VRTemplate/Maps/_GENERATED/Justin/Box_84F89BDD.uasset",
+				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/VRTemplate/Maps/_GENERATED/Justin/Box_89EE382A.uasset",
+				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/VRTemplate/Maps/_GENERATED/Justin/Box_708EEA68.uasset",
+				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/VRTemplate/Maps/_GENERATED/Justin/Box_9E0E591F.uasset",
+				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/Megascans/Surfaces/Damaged_Wall_Plaster_vl0qditfw/MI_Damaged_Wall_Plaster_vl0qditfw_2K.uasset",
+				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/Audio/Sliding-SoundBible_com-649905012.uasset",
+				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/Sounds/karate-chop-6357.uasset",
+				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/Cube_GeometryCollection.uasset"
+			]
+		}
+	]
+}

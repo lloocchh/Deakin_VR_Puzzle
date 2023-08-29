@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "c:\\users\\justin\\documents\\github\\deakin_vr_puzzle\\full_body_ik_kaz\\intermediate\\source\\full_body_ik_kaz.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\justin\\documents\\github\\deakin_vr_puzzle\\full_body_ik_kaz\\intermediate\\build\\win64\\x64\\full_body_ik_kaz\\development\\core\\sharedpch.core.shadowerrors.inclorderunreal5_0.h.pch",
+        "Includes": [
+            "c:\\users\\justin\\documents\\github\\deakin_vr_puzzle\\full_body_ik_kaz\\intermediate\\build\\win64\\x64\\unrealgame\\development\\full_body_ik_kaz\\definitions.full_body_ik_kaz.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
