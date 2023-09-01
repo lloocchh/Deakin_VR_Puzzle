@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Group Project/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/StarterContent/Audio/Collapse01.uasset",
+				"D:/Group Project/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
+				"D:/Group Project/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/VRTemplate/Maps/VRTemplateMap.umap",
+				"D:/Group Project/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/Ryan/B_PressureButton.uasset",
+				"D:/Group Project/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/VRTemplate/Blueprints/VRPawn.uasset",
+				"D:/Group Project/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/Ryan/BP_Ball.uasset",
 				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/VRTemplate/Maps/VRTemplateMap.umap",
 				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/Materials/Corrigated_Roof.uasset",
 				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/Assets/M_steel_warehouse-3DView-_3D__Basic_Roof_Generic_-_400mm__349239__MI_Corrugated_Metal_Sheet_ueykdexew_2K_B70FF2554A73198A45C586896CD91AF5.uasset",
@@ -225,10 +231,7 @@
 				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/Materials/Corrigated_Wall.uasset",
 				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/Materials/Concrete_Floor.uasset",
 				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/MSPresets/M_MS_Surface_Material/M_MS_Surface_Material.uasset",
-				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/Megascans/Surfaces/Parkerized_Steel_sglfedgc/MI_Parkerized_Steel_sglfedgc_2K.uasset",
-				"D:/Group Project/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/StarterContent/Audio/Collapse01.uasset",
-				"D:/Group Project/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/VRTemplate/Maps/VRTemplateMap_BuiltData.uasset",
-				"D:/Group Project/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/VRTemplate/Maps/VRTemplateMap.umap"
+				"C:/Users/Justin/Documents/GitHub/Deakin_VR_Puzzle/Full_Body_IK_Kaz/Content/Megascans/Surfaces/Parkerized_Steel_sglfedgc/MI_Parkerized_Steel_sglfedgc_2K.uasset"
 			]
 		}
 	]
